@@ -1,0 +1,2 @@
+plemora https://git.pleroma.social/pleroma
+halycon https://notabug.org/halcyon-suite/halcyon
